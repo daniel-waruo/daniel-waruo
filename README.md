@@ -1,5 +1,5 @@
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Hello_%28yellow%29.svg/1280px-Hello_%28yellow%29.svg.png">]
+<img src="https://raw.githubusercontent.com/daniel-waruo/daniel-waruo/main/Hello-bro.svg">
 <p align = "center"> <samp> <img src = https://komarev.com/ghpvc/?username=daniel-waruo alt = daniel-waruo /> </samp> </p>
 My name is Daniel  I love singing and playing my guitar . Music and Code have alot in common , from the eight notes of a scale I can make music that makes people feel, heal , riot or revolt like wise using data structures I can influence how entire civilizations work.
 
