@@ -1,4 +1,5 @@
-![](https://raw.githubusercontent.com/daniel-waruo/daniel-waruo/main/Hello-bro.svg | width=100)
+
+<img src="https://raw.githubusercontent.com/daniel-waruo/daniel-waruo/main/Hello-bro.svg" width="200" height="400" />
 
 <p align = "center"> <samp> <img src = https://komarev.com/ghpvc/?username=daniel-waruo alt = daniel-waruo /> </samp> </p>
 My name is Daniel  I love singing and playing my guitar . Music and Code have alot in common , from the eight notes of a scale I can make music that makes people feel, heal , riot or revolt like wise using data structures I can influence how entire civilizations work.
