@@ -10,11 +10,5 @@ My name is Daniel  I love singing and playing my guitar . Music and Code have al
 
 <br />
 <br />
-<a href="https://github.com/daniel-waruo">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-waruo&hide=jupyter%20notebook&show_icons=true&theme=radical" alt="Daniel's github stats"/></a>
-
-<a href="https://github.com/daniel-waruo">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=daniel-waruo&theme=onedark" alt="Daniel's github stats"/></a>
- 
  
 <br><br>
